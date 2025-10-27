@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Sr2ScSbO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.68244633
+_cell_length_b   5.67875615
+_cell_length_c   9.82234204
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   125.29103481
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2ScSbO6
+_chemical_formula_sum   'Sr4 Sc2 Sb2 O12'
+_cell_volume   258.71112456
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr1  1  0.75486696  0.47913254  0.25015020  1
+  Sr  Sr1  1  0.75486696  0.02086746  0.75015020  1
+  Sr  Sr1  1  0.24513304  0.52086746  0.74984980  1
+  Sr  Sr1  1  0.24513304  0.97913254  0.24984980  1
+  Sc  Sc1  1  0.50000000  0.50000000  0.50000000  1
+  Sc  Sc1  1  0.50000000  0.00000000  0.00000000  1
+  Sb  Sb1  1  0.00000000  0.00000000  0.50000000  1
+  Sb  Sb1  1  0.00000000  0.50000000  0.00000000  1
+  O  O1  1  0.23794198  0.21958778  0.46819103  1
+  O  O1  1  0.23794198  0.28041222  0.96819103  1
+  O  O1  1  0.76205802  0.78041222  0.53180897  1
+  O  O1  1  0.76205802  0.71958778  0.03180897  1
+  O  O2  1  0.81367320  0.22909434  0.03200313  1
+  O  O2  1  0.81367320  0.27090566  0.53200313  1
+  O  O2  1  0.18632680  0.77090566  0.96799687  1
+  O  O2  1  0.18632680  0.72909434  0.46799687  1
+  O  O3  1  0.69483308  0.00947968  0.25542314  1
+  O  O3  1  0.69483308  0.49052032  0.75542314  1
+  O  O3  1  0.30516692  0.99052032  0.74457686  1
+  O  O3  1  0.30516692  0.50947968  0.24457686  1

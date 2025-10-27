@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ba2BiSbO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.44946090
+_cell_length_b   6.02991996
+_cell_length_c   6.09666358
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   125.29264498
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2BiSbO6
+_chemical_formula_sum   'Ba4 Bi2 Sb2 O12'
+_cell_volume   313.54545729
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba1  1  0.74868616  0.50000000  0.74468269  1
+  Ba  Ba1  1  0.25131384  0.50000000  0.25531731  1
+  Bi  Bi1  1  0.00000000  0.00000000  0.00000000  1
+  Sb  Sb1  1  0.50000000  0.00000000  0.50000000  1
+  O  O1  1  0.53226870  0.76525253  0.30204386  1
+  O  O1  1  0.46773130  0.76525253  0.69795614  1
+  O  O1  1  0.46773130  0.23474747  0.69795614  1
+  O  O1  1  0.53226870  0.23474747  0.30204386  1
+  O  O2  1  0.73165666  0.00000000  0.79114968  1
+  O  O2  1  0.26834334  0.00000000  0.20885032  1
+  Ba  Ba1  1  0.24868616  0.00000000  0.74468269  1
+  Ba  Ba1  1  0.75131384  0.00000000  0.25531731  1
+  Bi  Bi1  1  0.50000000  0.50000000  0.00000000  1
+  Sb  Sb1  1  0.00000000  0.50000000  0.50000000  1
+  O  O1  1  0.03226870  0.26525253  0.30204386  1
+  O  O1  1  0.96773130  0.26525253  0.69795614  1
+  O  O1  1  0.96773130  0.73474747  0.69795614  1
+  O  O1  1  0.03226870  0.73474747  0.30204386  1
+  O  O2  1  0.23165666  0.50000000  0.79114968  1
+  O  O2  1  0.76834334  0.50000000  0.20885032  1

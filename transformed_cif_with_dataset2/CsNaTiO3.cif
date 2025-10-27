@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_CsNaTiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.96147450
+_cell_length_b   11.12320262
+_cell_length_c   5.61157753
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsNaTiO3
+_chemical_formula_sum   'Cs4 Na4 Ti4 O12'
+_cell_volume   372.10757114
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs1  1  0.50000000  0.76715036  0.75000000  1
+  Cs  Cs1  1  0.00000000  0.73284964  0.25000000  1
+  Na  Na1  1  0.50000000  0.92638986  0.25000000  1
+  Na  Na1  1  0.00000000  0.57361014  0.75000000  1
+  Ti  Ti1  1  0.50000000  0.54872288  0.25000000  1
+  Ti  Ti1  1  0.00000000  0.95127712  0.75000000  1
+  O  O1  1  0.50000000  0.70897860  0.25000000  1
+  O  O2  1  0.21447752  0.00000000  0.00000000  1
+  O  O2  1  0.78552248  0.00000000  0.50000000  1
+  O  O2  1  0.21447752  0.00000000  0.50000000  1
+  O  O2  1  0.78552248  0.00000000  0.00000000  1
+  O  O1  1  0.00000000  0.79102140  0.75000000  1
+  Cs  Cs1  1  0.00000000  0.26715036  0.75000000  1
+  Cs  Cs1  1  0.50000000  0.23284964  0.25000000  1
+  Na  Na1  1  0.00000000  0.42638986  0.25000000  1
+  Na  Na1  1  0.50000000  0.07361014  0.75000000  1
+  Ti  Ti1  1  0.00000000  0.04872288  0.25000000  1
+  Ti  Ti1  1  0.50000000  0.45127712  0.75000000  1
+  O  O1  1  0.00000000  0.20897860  0.25000000  1
+  O  O2  1  0.71447752  0.50000000  0.00000000  1
+  O  O2  1  0.28552248  0.50000000  0.50000000  1
+  O  O2  1  0.71447752  0.50000000  0.50000000  1
+  O  O2  1  0.28552248  0.50000000  0.00000000  1
+  O  O1  1  0.50000000  0.29102140  0.75000000  1

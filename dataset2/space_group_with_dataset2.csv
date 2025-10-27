@@ -1,0 +1,110 @@
+,space_group,filenames,count
+0,Pnn2,Ag2BiO3.cif,1
+1,P4_32_12,"Ag2HgO2.cif, Na2Zn2O3.cif",2
+2,P2_1/c,"AgAuO2.cif, Al2Ca1O4-dataset2-0107269.cif, Al2O9Y4-dataset2-0109092.cif, As2O3.cif, As2Pb3O8.cif, As2PbO4.cif, Ba2Bi2O5.cif, Ba2Fe1O4-dataset2-0169441.cif, Ba2O4Ti1-dataset2-0289663.cif, Ba2TiO4.cif, BaLiBO3.cif, Bi2O3.cif, BiAsO4.cif, BiBO3.cif, Ca2MgWO6.cif, Ca2ScSbO6.cif, Ca2ScTaO6.cif, Cs2BeO2.cif, Cs3AlO3.cif, Cs3GaO3.cif, Cs3InO3.cif, Cs3ScO3.cif, Cs3TlO3.cif, Cs3YO3.cif, Cs6Ge2O7.cif, Cs6Si2O7.cif, HfO2.cif, K2BeO2.cif, K2NaTlO3.cif, K2W2O7.cif, K6Si2O7.cif, LaSbO4.cif, LaTaO4.cif, Li3BO3.cif, LiAgO2.cif, LiBO2.cif, LiSb3O8.cif, LiYO2.cif, LiYSiO4.cif, Mg3(AsO4)2.cif, MgZn2(AsO4)2.cif, Mn1O3Y1-dataset2-0177189.cif, Na2ZnO2.cif, Na3BO3.cif, Na3Sc(BO3)2.cif, NaLa2TaO6.cif, NaSrBO3.cif, PbWO4.cif, Rb3CuO2.cif, Rb3InO3.cif, Rb3TlO3.cif, Rb6Si2O7.cif, Rb6Ti2O7.cif, SbAsO3.cif, Sn5O6.cif, Sr2CaWO6.cif, Sr2CdWO6.cif, Sr2GeO4.cif, Sr2InSbO6.cif, Sr2LaBiO6.cif, Sr2LaSbO6.cif, Sr2NbInO6.cif, Sr2ScSbO6.cif, Sr2ScTaO6.cif, Sr2SiO4.cif, Sr2TaInO6.cif, Sr2YNbO6.cif, Sr2YSbO6.cif, Sr4Cu2O7.cif, SrBiO3.cif, SrCrO4.cif, SrLiBO3.cif, V2Pb3O8.cif, Zn3(AsO4)2.cif, ZrO2.cif",75
+3,Ibam,"Al1Ce1O3-dataset2-0289832.cif, Cs2Li3GaO4.cif, K2ZnO2.cif, LiAg3O2.cif, Na3AgO2.cif, NaAg3O2.cif, Rb2Li3GaO4.cif, Rb2MgO2.cif",8
+4,Pna2_1,"Al1Fe1O3-dataset2-0113386.cif, BeTlAsO4.cif, CsAlSiO4.cif, CsBeAsO4.cif, KNaGeO3.cif, LiGaO2.cif, NaAlO2.cif, NaGaO2.cif, NbSbO4.cif, RbAlSiO4.cif, SbO2.cif",11
+5,R-3c,"Al1La1O3-dataset2-0289874.cif, Al2O3-dataset2-0009540.cif, Al2O3-dataset2-0009576.cif, Al2O3.cif, Ba3NaBiO6.cif, Ba3NaSbO6.cif, Ba3Ni1O4-dataset2-0154647.cif, Ba4PdO6.cif, Ba4PtO6.cif, BaHf(BO3)2.cif, BaZr(BO3)2.cif, Ca3(BO3)2.cif, Ca4PdO6.cif, CsBO2.cif, Fe2O3-dataset2-0009808.cif, Hg3(BO3)2.cif, InBO3.cif, KBO2.cif, NaBO2.cif, NaSr3BiO6.cif, NaSr3NbO6.cif, NaSr3SbO6.cif, NaSr3TaO6.cif, RbBO2.cif, ScBO3.cif, Sr3(BO3)2.cif, Sr3CdPtO6.cif, Sr3LiSbO6.cif, Sr3LiTaO6.cif, Sr3MgPtO6.cif, Sr3ZnPtO6.cif, Sr4PdO6.cif, Sr4PtO6.cif",33
+6,C2/m,"Al1Nb1O4-dataset2-0151582.cif, Ba2BiSbO6.cif, Ba2Ca(BO3)2.cif, Ba2Cd(BO3)2.cif, Ba2LaBiO6.cif, Ba2LaTaO6.cif, Ba2TaBiO6.cif, Ba5Co5O14-dataset2-0185107.cif, BaNaBO3.cif, BaTi(AsO4)2.cif, Ca2Sn3O8.cif, CaV2O6.cif, Co1O2-dataset2-0187243.cif, CrPb2O5.cif, Cs2WO4.cif, CsTlO.cif, Fe1Nb1O4-dataset2-0188731.cif, Fe2Ni1O4-dataset2-0011562.cif, Fe3O4-dataset2-0191847.cif, Ga2O3.cif, Ga4GeO8.cif, K2LiVO4.cif, K2MoO4.cif, K2WO4.cif, K3AlO3.cif, K3GaO3.cif, KLa2NbO6.cif, KLiZnO2.cif, KTlO.cif, La1Mn7O12-dataset2-0193122.cif, La2HgO4.cif, La3SbO3.cif, Li2PdO3.cif, Li5AuO4.cif, Li5BiO5.cif, Li5SbO5.cif, Li5TaO5.cif, MgV2O6.cif, Mn5O8-dataset2-0178128.cif, MoPb2O5.cif, NaAgO2.cif, NaAuO2.cif, Nb2O5-dataset2-0290125.cif, NbAlO4.cif, NbGaO4.cif, Rb2CeO3.cif, Rb2MoO4.cif, Rb2WO4.cif, Rb3AlO3.cif, Rb3GaO3.cif, RbTaO3.cif, RbTlO.cif, Sc2Si2O7.cif, Sc2Ti2O7.cif, Si2Hg6O7.cif, Sr(BiO2)2.cif, Sr2Mg(BO3)2.cif, SrAgO2.cif, TaAlO4.cif, TiO2.cif, V2Cd2O7.cif, V2CdO6.cif",62
+7,P6_3/mmc,"Al1O3Y1-dataset2-0108689.cif, AlAgO2.cif, Ba1Mn1O3-dataset2-0289618.cif, Ba3BAsO3.cif, Ba3MgSb2O9.cif, Ba3ZnSb2O9.cif, GaCuO2.cif, K3ScSi2O7.cif, LaAgO2.cif, LiNbO2.cif, NaNbO2.cif, RbScO2.cif, ScAgO2.cif, ScCuO2.cif, YAgO2.cif",15
+8,P6_3,"Al2Ba1O4-dataset2-0108143.cif, La3BWO9.cif, Tl3AsO4.cif",3
+9,Ima2,"Al2Ca2O5-dataset2-0107847.cif, Ba2In2O5-dataset2-0110289.cif, Ba2In2O5.cif, Ba2InGaO5.cif, KSbWO6.cif, RbSbMoO6.cif, TaTlWO6.cif, TlSbWO6.cif",8
+10,Fd-3m,"Al2Co1O4-dataset2-0009491.cif, Al2Mg1O4-dataset2-0009494.cif, Al2Mn1O4-dataset2-0009572.cif, Al2ZnO4.cif, BaLa2O4.cif, Ca1In2O4-dataset2-0109770.cif, CaIn2O4.cif, Cd2Sb2O7.cif, Ce2La2O7-dataset2-0289949.cif, Co1In2O4-dataset2-0009921.cif, Co3O4-dataset2-0009648.cif, In2Mg1O4-dataset2-0009931.cif, In2Mn1O4-dataset2-0009859.cif, In2Pt2O7.cif, La2Hf2O7.cif, La2Pt2O7.cif, La2Sn2O7.cif, La2Zr2O7.cif, MgAl2O4.cif, Mn2O7Y2-dataset2-0179580.cif, Na2MoO4.cif, Na2WO4.cif, O7Ti2Y2-dataset2-0112035.cif, Sc2Pt2O7.cif, Ta2Cd2O7.cif, Tl2Pt2O7.cif, Y2Pb2O7.cif, Y2Pt2O7.cif, Y2Sn2O7.cif, Zn(GaO2)2.cif",30
+11,I4_1/amd,"Al2Fe1O4-dataset2-0289591.cif, Ba(AgO)2.cif, Ba(CuO)2.cif, Fe2Mg1O4-dataset2-0009694.cif, HfSiO4.cif, LaAsO4.cif, LaVO4.cif, LiInO2.cif, LiScO2.cif, NaLaO2.cif, O2Ti1-dataset2-0010549.cif, ScAsO4.cif, Sr(CuO)2.cif, TaBO4.cif, VBiO4.cif, YAsO4.cif, YVO4.cif, ZrSiO4.cif",18
+12,C2/c,"Al2Ge2O7.cif, Al4Ca1O7-dataset2-0107702.cif, Al4O7Sr1-dataset2-0108427.cif, AsAuO4.cif, Ba(AsO3)2.cif, Ba2Mn1O3-dataset2-0185165.cif, Ba2ZnO3.cif, Ba2ZnSi2O7.cif, BaGa4O7.cif, BiO2.cif, BiSbO4.cif, CaAl4O7.cif, CaGa4O7.cif, CaMg(SiO3)2.cif, CaTaAlO5.cif, Co1La1O3-dataset2-0169397.cif, Cs3AlGe2O7.cif, CsLa(WO4)2.cif, CsLi5(BO3)2.cif, CsSbO2.cif, CsY(WO4)2.cif, Cu2PbO2.cif, Fe1O1-dataset2-0009684.cif, Fe2O5Ti1-dataset2-0143825.cif, Fe3O4-dataset2-0191339.cif, Hg2WO4.cif, HgMoO4.cif, K2Zn3O4.cif, K2ZrGe2O7.cif, K3NaCr2O8.cif, K4Be3O5.cif, KBi(WO4)2.cif, KBiO2.cif, KLa(MoO4)2.cif, KNaTiO3.cif, KNaV2O6.cif, KNaZnO2.cif, KSbO2.cif, KSc(WO4)2.cif, KY(WO4)2.cif, La1Mn1O3-dataset2-0289876.cif, La1Nb1O4-dataset2-0289885.cif, La2CrO6.cif, Li2HfO3.cif, Li2SnO3.cif, Li2WO4.cif, Li2ZrO3.cif, Li6Hf2O7.cif, Li6Zr2O7.cif, LiIn(WO4)2.cif, LiSc(WO4)2.cif, LiTa3O8.cif, MgGeO3.cif, Na2BeB2O5.cif, Na2BiO3.cif, Na2PbO3.cif, Na2Sb4O7.cif, Na2SnO3.cif, Na2ZrO3.cif, Na4As2O7.cif, Na4B2O5.cif, Na5NbO5.cif, Na5TaO5.cif, NaBiO2.cif, NaGeSbO5.cif, NaIn(GeO3)2.cif, NaIn(SiO3)2.cif, NaLiV2O6.cif, NaSc(GeO3)2.cif, NaSc(SiO3)2.cif, NaTaGeO5.cif, NaVO3.cif, NaYO2.cif, Nb2O5-dataset2-0290102.cif, Nb2SnO6.cif, Rb2Zn3O4.cif, RbBiO2.cif, RbNaTiO3.cif, RbSbO2.cif, RbSc(WO4)2.cif, RbY(WO4)2.cif, SrAl4O7.cif, SrGa4O7.cif, Ta2SnO6.cif, Ta2Zn3O8.cif, TlBi(WO4)2.cif, TlV2AgO6.cif, V2Zn2O7.cif, VAg3O4.cif, VAgO3.cif, YNbO4.cif, YTl(WO4)2.cif",92
+13,Imma,"Al2Ni1O4-dataset2-0009499.cif, Ca2Sb2O7.cif, Fe2Mg1O4-dataset2-0011911.cif, In2Ni1O4-dataset2-0009944.cif, Mg(GaO2)2.cif, Mg2O4Ti1-dataset2-0290062.cif, Mg2PtO4.cif, Mg2SnO4.cif, Sr2Sb2O7.cif, Zn2PtO4.cif",10
+14,P2_1,"Al2O4Sr1-dataset2-0108933.cif, Ca2Nb2O7-dataset2-0289796.cif, La2O7Ti2-dataset2-0111567.cif, Nb2Ni4O9-dataset2-0149894.cif, Nb2O7Sr2-dataset2-0290243.cif",5
+15,Cmcm,"Al2O5Ti1-dataset2-0108321.cif, Ba4AgAuO6.cif, BaGa2B2O7.cif, BaZn2Si2O7.cif, CaAgAsO4.cif, CrCdO4.cif, CrHgO4.cif, Cs2SnO3.cif, Cs2ZrO3.cif, CsAgO2.cif, CsAuO2.cif, CsCuO.cif, CsCuO2.cif, CsNaTiO3.cif, Fe1O5Ti2-dataset2-0159784.cif, K2TiO3.cif, KAgO2.cif, KAuO2.cif, KCuO2.cif, La(SbO3)3.cif, Li4GeO4.cif, Li4PbO4.cif, Li4TiO4.cif, LiMgVO4.cif, Mg1O5Ti2-dataset2-0290080.cif, MgTi2O5.cif, Na2CrO4.cif, Na6PbO5.cif, NaCaVO4.cif, NaCuO2.cif, NaVCdO4.cif, RbAgO2.cif, RbAuO2.cif, SrGa2B2O7.cif, VInO4.cif, Y3SbO7.cif, YBO3.cif",37
+16,Ama2,"Al2PbO4.cif, Ga2PbO4.cif, Na2Zn2Si2O7.cif",3
+17,Pbam,"Al4Bi2O9.cif, Ba1Nb2O6-dataset2-0133995.cif, Ba2Sc2O5.cif, BaNb2O6.cif, Ca2PbO4.cif, Ca2SnO4.cif, Ce1O4Sr2-dataset2-0290198.cif, Mn2O5Sr2-dataset2-0145133.cif, Mn2O5Y1-dataset2-0144940.cif, Rb5Au3O2.cif, Sr2CeO4.cif, Sr2PbO4.cif",12
+18,Ia-3d,Al5O12Y3-dataset2-0108446.cif,1
+19,Cmc2_1,"Al6Ca5O14-dataset2-0107855.cif, Ca2BiAsO6.cif, Ca2VBiO6.cif, Ca3O7Ti2-dataset2-0109710.cif, Cd2BiAsO6.cif, Co1O1-dataset2-0010389.cif, Cs2CeO3.cif, Cs2LiAsO4.cif, Cs2LiVO4.cif, Cs2PbO3.cif, Fe1La3O6-dataset2-0174252.cif, Li2GeO3.cif, Li2SiO3.cif, Mn1O1-dataset2-0010576.cif, Na2GeO3.cif, Na2SiO3.cif, Rb2LiAsO4.cif, Rb2LiVO4.cif, Rb2SnO3.cif, Rb2ZrO3.cif, TiBi2O5.cif, VCd2BiO6.cif",22
+20,I-4,"AlAsO4.cif, BAsO4.cif, CsLiWO4.cif, LaAg(MoO4)2.cif, LiGeBO4.cif, NaBi(MoO4)2.cif, NaLa(MoO4)2.cif",7
+21,R-3m,"AlCuO2.cif, B6O.cif, Ba2Mg(BO3)2.cif, Ba3(AsO4)2.cif, Ba3Mn2O8-dataset2-0184694.cif, Ba3V2O8.cif, BaHgO2.cif, Ca2Pt3O8.cif, CaHgO2.cif, K2Zr(BO3)2.cif, KInO2.cif, KLaO2.cif, KLi6BiO6.cif, KLi6TaO6.cif, KScO2.cif, KYO2.cif, LaCuO2.cif, LaSb5O12.cif, NaInO2.cif, NaScO2.cif, Rb2Sn2O3.cif, RbLaO2.cif, RbYO2.cif, SrHgO2.cif, Ta2Mo2O11.cif",25
+22,Cmmm,"AlSbO4.cif, Ba4InSbO8.cif, Ca3CdO4.cif, LiLa4AuO8.cif, Zn(PtO2)3.cif",5
+23,P-3m1,"AlTl(MoO4)2.cif, Ba3CaTa2O9.cif, Ba3MgTa2O9.cif, Ba3Nb2CdO9.cif, Ba3Ta2ZnO9.cif, Ba5Nb4O15-dataset2-0289691.cif, Ba5Ta4O15.cif, BaSr2Mg(SiO4)2.cif, Ce2O3-dataset2-0289862.cif, Cs2Al2Sb2O7.cif, CsCu3O2.cif, CsSc(WO4)2.cif, CsY(MoO4)2.cif, K2Al2Sb2O7.cif, K3ScV2O8.cif, K4Hf5O12.cif, La2O3-dataset2-0289934.cif, Mg(ReO4)2.cif, Rb2Al2Sb2O7.cif, Rb3YV2O8.cif, RbAl(MoO4)2.cif, RbIn(MoO4)2.cif, RbSc(MoO4)2.cif, ScTl(MoO4)2.cif, Ta6TiTl2O18.cif, Tl4V2O7.cif, Zr(MoO4)2.cif",27
+24,P-31m,"As2PbO6.cif, Ba(SbO3)2.cif, Ca(AsO3)2.cif, Ca(SbO3)2.cif, Cd(AsO3)2.cif, Cd(SbO3)2.cif, Sb2PbO6.cif, Sr(SbO3)2.cif",8
+25,Fdd2,"Au2O3.cif, Mn2Ni1O4-dataset2-0011908.cif, Mn3O4-dataset2-0011304.cif, Na2Zn(SiO3)2.cif",4
+26,P3_121,"B2O3.cif, Ba1Mn1O2-dataset2-0012370.cif, BaBAsO5.cif, BaZnO2.cif, GaAsO4.cif, GeO2.cif, Na3ReO5.cif, O2Ti1-dataset2-0010731.cif, SrLi2SiO4.cif",9
+27,Pmn2_1,"B4PbO7.cif, BaBe2Si2O7.cif, CsTa(BO3)2.cif, Li2CdGeO4.cif, Li2MgGeO4.cif, Li3AsO4.cif, Li3VO4.cif, Na3AsO4.cif, Na3VO4.cif, NaLi2AsO4.cif, RbTa(BO3)2.cif, SnB4O7.cif",12
+28,I4_1/a,"Ba(AuO2)2.cif, BaMoO4.cif, BaWO4.cif, Ca(AgO2)2.cif, Ca(AuO2)2.cif, CaMoO4.cif, CaWO4.cif, HfGeO4.cif, KReO4.cif, LaNbO4.cif, MoPbO4.cif, RbReO4.cif, ReAgO4.cif, Sr(AuO2)2.cif, SrMoO4.cif, SrWO4.cif, ZrGeO4.cif",17
+29,Pnma,"Ba1Ce1O3-dataset2-0289614.cif, Ba1Ce2O4-dataset2-icsd427482.cif, Ba1La2O4-dataset2-icsd427481.cif, Ba1O4Y2-dataset2-0108927.cif, Ba1O5Ti2-dataset2-0109333.cif, Ba2SiO4.cif, Ba3Fe1O5-dataset2-0185205.cif, BaBiBO4.cif, BaCdO2.cif, BaCeO3.cif, BaY2O4.cif, BeAl2O4.cif, Ca1Ce1O3-dataset2-0289729.cif, Ca1Co2O4-dataset2-0155087.cif, Ca1O3Ti1-dataset2-0289774.cif, Ca2GeO4.cif, Ca2SiO4.cif, CaHfO3.cif, CaLaGaO4.cif, CaMgGeO4.cif, CaMgSiO4.cif, CaSc2O4.cif, CaYBO4.cif, CaZrO3.cif, Cd2GeO4.cif, Ce1Mg1O3-dataset2-0289952.cif, Ce1O3Sr1-dataset2-0290130.cif, Co1O3Y1-dataset2-0155205.cif, Cs2CrO4.cif, CsK2AuO2.cif, CsReO4.cif, Fe1La1O3-dataset2-0174238.cif, Fe1O3Y1-dataset2-0188787.cif, GaBPbO4.cif, HgO.cif, In1La1O3-dataset2-0110733.cif, In2O4Sr1-dataset2-0111316.cif, In2O5Ti1-dataset2-0110156.cif, K2CrO4.cif, K2SnO3.cif, K2ZrO3.cif, KLi2BO3.cif, KNa2GaO3.cif, La1Mn1O3-dataset2-0126619.cif, La1O3Y1-dataset2-0111508.cif, La2O5Ti1-dataset2-0110854.cif, La3Nb1O7-dataset2-0143911.cif, LaBO3.cif, LaScO3.cif, LiInGeO4.cif, LiInSiO4.cif, LiScSiO4.cif, Mg2GeO4.cif, Mg2SiO4.cif, MgAlBO4.cif, Mn1O2-dataset2-0125667.cif, Na3TlO2.cif, NaCaAsO4.cif, NaYGeO4.cif, NaYSiO4.cif, O4Sr1Y2-dataset2-0111982.cif, O5Ti1Y2-dataset2-0112334.cif, Rb2Be2O3.cif, Rb2CrO4.cif, Rb2PbO3.cif, SrHfO3.cif, SrIn2O4.cif, SrSc2O4.cif, SrSnO3.cif, SrZnO2.cif, SrZrO3.cif, TiTl2O3.cif, Tl2SnO3.cif",73
+30,C2,"Ba1Co1O2-dataset2-0182355.cif, Ba1Fe1O3-dataset2-0115344.cif, K2LiBO3.cif, NaScAs2O7.cif",4
+31,P1,"Ba1Fe12O19-dataset2-0167571.cif, Ba1Fe18O27-dataset2-0153176.cif, Ba1Mn3O6-dataset2-0117270.cif, Ba2Fe2O5-dataset2-0185027.cif, Ba2Fe6O11-dataset2-0116531.cif, Co1O3Sr1-dataset2-0136293.cif, Co2La2O5-dataset2-0156399.cif, Co2Mn3O8-dataset2-0170164.cif, Co3La3O8-dataset2-0136334.cif, Co3La4O9-dataset2-0120257.cif, Co5O15Sr6-dataset2-0171017.cif, Fe12O19Sr1-dataset2-0142004.cif, Fe1O3Ti1-dataset2-0141559.cif, Fe5O12Y3-dataset2-0162642.cif, Fe6O13Sr4-dataset2-0162339.cif, La1Mn2O5-dataset2-0163417.cif, Mn4O13Sr7-dataset2-0179730.cif, Mn4O15Sr7-dataset2-0147283.cif, VAg3HgO4.cif",19
+32,Cm,"Ba1Fe2O4-dataset2-0115470.cif, Ba4Mn3O10-dataset2-0185492.cif, Ba6Mn5O16-dataset2-0135701.cif, BaBeSiO4.cif, KLiZn3O4.cif, Mn1O2-dataset2-0125741.cif, Mn3O10Sr4-dataset2-0146578.cif, RbNaCd3O4.cif",8
+33,Immm,"Ba1Mn2O3-dataset2-0134600.cif, Ca2Co1O3-dataset2-0117717.cif, Fe2O5Sr3-dataset2-0124785.cif, K2PdO2.cif, Li2PdO2.cif, Na2PtO2.cif",6
+34,Fddd,"Ba1Mn2O8-dataset2-0185408.cif, BaBe2(BO3)2.cif, Cd2SiO4.cif, Hg2GeO4.cif, Mg1Mn2O4-dataset2-0011233.cif, Na2PtO3.cif, Na3Ca2BiO6.cif, Na3Ca2TaO6.cif",8
+35,Fm-3m,"Ba1O1-dataset2-0009594.cif, Ba2CePtO6.cif, Ba2ZrSnO6.cif, Ca1O1-dataset2-0009596.cif, CaO.cif, Ce1O2-dataset2-0289838.cif, In6Ga2PtO8.cif, In6Ge2PtO9.cif, K2O.cif, Li2O.cif, Mg1O1-dataset2-0009973.cif, MgO.cif, Ni1O1-dataset2-0010021.cif, O1Sr1-dataset2-0010079.cif, Rb2O.cif, SrO.cif, TlPd3O4.cif, TlPt3O4.cif",18
+36,P4mm,Ba1O3Ti1-dataset2-0010375.cif,1
+37,Pmmn,"Ba1O9Ti4-dataset2-0108699.cif, CsNa2BO3.cif, RbNa2BO3.cif, Ta2O5.cif",4
+38,R-3,"Ba2Ca(BO2)6.cif, Ba2Cd(BO2)6.cif, Ba2LaSbO6.cif, BaNaSc(BO3)2.cif, Ca3WO6.cif, CaSn(BO3)2.cif, CaSnO3.cif, Co1Mn1O3-dataset2-0136261.cif, Co1O3Ti1-dataset2-0136734.cif, GePbO3.cif, KSbO3.cif, La4O12Ti3-dataset2-0111085.cif, La6WO12.cif, Li8PtO6.cif, Li8SnO6.cif, LiAsO3.cif, Mg1O3Ti1-dataset2-0290005.cif, MgSn(BO3)2.cif, MgTiO3.cif, Mn1Ni1O3-dataset2-0012011.cif, Mn1Ni1O3-dataset2-0012072.cif, Mn1O3Ti1-dataset2-0194723.cif, NaBiO3.cif, NaNbO3.cif, NaSbO3.cif, Ni1O3Ti1-dataset2-0149539.cif, Sr2Zr7O16.cif, Sr3WO6.cif, SrSn(BO3)2.cif, TiCdO3.cif, TiNb3O6.cif, TiSnO3.cif, Y6WO12.cif",33
+39,Fmmm,Ba2Ca(PdO2)3.cif,1
+40,P-42_1m,"Ba2CdGe2O7.cif, Ba2MgGe2O7.cif, Ba2MgSi2O7.cif, Ba2ZnGe2O7.cif, Ca1Fe1O2-dataset2-0170770.cif, La2Be2GeO7.cif, Sr2MgGe2O7.cif, Sr2MgSi2O7.cif, Sr2ZnGe2O7.cif, Sr2ZnSi2O7.cif, Y2Be2GeO7.cif, Y2Be2SiO7.cif",12
+41,Pc,"Ba2Co1O4-dataset2-0169661.cif, Li2BeSiO4.cif, Li2ZnGeO4.cif, Na2MgGeO4.cif, Na2MgSiO4.cif, Na2ZnGeO4.cif, Na2ZnSiO4.cif",7
+42,I4/mmm,"Ba2HfO4.cif, Ba2SnO4.cif, Ba2ZrO4.cif, Ba3Hf2O7.cif, Ba3In2O6-dataset2-0109684.cif, Ba3Sn2O7.cif, Ba3Zr2O7.cif, Ca4As2O.cif, Ca4Bi2O.cif, Cs2HgO2.cif, CsAgO.cif, CsAuO.cif, Fe1O4Sr2-dataset2-0142463.cif, Fe2O6Sr3-dataset2-0124041.cif, Fe2O7Sr3-dataset2-0159759.cif, K2HgO2.cif, KAgO.cif, KCuO.cif, Li2HgO2.cif, LiAgO.cif, LiCuO.cif, Mn1O4Sr2-dataset2-0194281.cif, Mn2O7Sr3-dataset2-0193429.cif, Na2HgO2.cif, NaAgO.cif, NaCuO.cif, O4Sr2Ti1-dataset2-0290206.cif, O7Sr3Ti2-dataset2-0111479.cif, Rb2HgO2.cif, RbAgO.cif, RbAuO.cif, RbCuO.cif, Sr5(AuO4)2.cif",33
+43,P4/mmm,"Ba2InCuO4.cif, Ba2ScCuO4.cif, Cs2SrV4O12.cif, Fe1O2Sr1-dataset2-0160074.cif, Rb2Hf2O5.cif",5
+44,P4bm,Ba2Ti(SiO4)2.cif,1
+45,I4/m,"Ba2YTaO6.cif, Sr2TaGaO6.cif",2
+46,P3m1,Ba3MgTaNbO9.cif,1
+47,P321,"Ba3NbGa3(SiO7)2.cif, Ca3TaGa3(SiO7)2.cif, La3HfGa5O14.cif, La3TiGa5O14.cif, Sr3NbGa3(SiO7)2.cif, Sr3TaGa3(SiO7)2.cif",6
+48,R3,"Ba3O9Y4-dataset2-0108190.cif, CdBiO3.cif, KZn4(SbO4)3.cif",3
+49,P6_3/m,"Ba3SrNb2O9.cif, Ba3SrTa2O9.cif, Ba4Nb2O9.cif, Cs2Sn(GeO3)3.cif, Cs2Ti(GeO3)3.cif, Cs2Zr(SiO3)3.cif, Ge3Sb2O9.cif, K2Zr(SiO3)3.cif, Rb2Si3SnO9.cif, Rb2Ti(SiO3)3.cif, Sr4Nb2O9.cif, Sr4Ta2O9.cif, TiTl2(GeO3)3.cif, Tl3BO3.cif",14
+50,Im-3m,"Ba4Li(SbO4)3.cif, Ba4Na(SbO4)3.cif",2
+51,Cmce,"Ba4O30Ti13-dataset2-0109458.cif, Co1La2O4-dataset2-icsd16404.cif, La2Ni1O4-dataset2-0193359.cif, Mg3V2O8.cif, Rb2TiO3.cif",5
+52,R32,"BaAl2Sb2O7.cif, YAl3(BO3)4.cif",2
+53,Imm2,"BaCa(GaO2)4.cif, Cs2Al2As2O7.cif",2
+54,P2_12_12_1,"BaGeO3.cif, BaGePbO4.cif, KSrVO4.cif, Rb2SnO2.cif, SrGePbO4.cif, SrTlVO4.cif",6
+55,P-6c2,"BaHf(SiO3)3.cif, BaSi3SnO9.cif, BaSn(GeO3)3.cif, BaTi(SiO3)3.cif, BaZr(SiO3)3.cif, KTa(GeO3)3.cif, RbNb(GeO3)3.cif, RbTa(GeO3)3.cif, TaTl(GeO3)3.cif",9
+56,Pm-3m,"BaHfO3.cif, Fe1O3Sr1-dataset2-0159544.cif, O3Sr1Ti1-dataset2-0010541.cif",3
+57,P4/mbm,"BaLa2PdO5.cif, BaLa2PtO5.cif",2
+58,P6_3mc,"BeO.cif, K6CdO4.cif, Na6ZnO4.cif, NaBe4SbO7.cif, ZnO.cif",5
+59,P-1,"Ca3Co2O6-dataset2-0118499.cif, CdAuO2.cif, Co2O6Sr3-dataset2-0136665.cif, Cs2Li2GeO4.cif, Cs2Li2SiO4.cif, Cs2Li2TiO4.cif, Cs2PbO2.cif, CuAsPbO4.cif, K2PbO2.cif, K3BiO4.cif, K4HfO4.cif, K4PbO4.cif, K4SnO4.cif, K4TiO4.cif, K4ZrO4.cif, KLi3PbO4.cif, Na4GeO4.cif, Na4PbO4.cif, Na4SiO4.cif, Na4SnO4.cif, Na4TiO4.cif, Nb2O9Sr4-dataset2-0182299.cif, Rb2Li2GeO4.cif, Rb2Li2SiO4.cif, Rb2PbO2.cif, Rb4PbO4.cif, Rb4SnO4.cif",27
+60,P-3c1,"CaAl2(SiO4)2.cif, Co4Nb2O9-dataset2-0170357.cif, Mg4Nb2O9-dataset2-0126437.cif, Mg4Nb2O9.cif, Mg4Ta2O9.cif, Mn4Nb2O9-dataset2-0147238.cif, SrAl2(SiO4)2.cif",7
+61,Ccc2,"CaAlBO4.cif, CaGaBO4.cif, Li2Si2O5.cif",3
+62,Pbcm,"CaNb2O4.cif, CsVO3.cif, KAsO2.cif, KVO3.cif, LaAuO3.cif, Mg(CuO2)2.cif, RbAsO2.cif, RbVO3.cif",8
+63,P4/nmm,"Cd3SiO5.cif, KNaLaNbO5.cif, KNaLaTaO5.cif, Na2TiGeO5.cif, Na2TiSiO5.cif, YZnAsO.cif",6
+64,P2/c,"CdWO4.cif, In1Nb1O4-dataset2-0176585.cif, Li3BiO4.cif, Li3SbO4.cif, LiY(WO4)2.cif, MgWO4.cif, Na3BiO4.cif, Na3SbO4.cif, NaIn(WO4)2.cif, NaSc(WO4)2.cif, NbInO4.cif, ScNbO4.cif, ScTaO4.cif, TaInO4.cif, YTaO4.cif, ZnWO4.cif",16
+65,I4_1md,"Co1Fe2O4-dataset2-0012299.cif, Fe2Mn1O4-dataset2-0012201.cif, Fe2Ni1O4-dataset2-0011580.cif",3
+66,Pbcn,"Co1Nb2O6-dataset2-0119208.cif, Fe1Nb2O6-dataset2-0176178.cif, K2CdO2.cif, K2MgO2.cif, Mg1Nb2O6-dataset2-0144307.cif, Mn1Nb2O6-dataset2-0194582.cif, Nb2Ni1O6-dataset2-0194560.cif, Sr(BO2)2.cif",8
+67,I-4m2,"Co1O1-dataset2-0010528.cif, Mn1O1-dataset2-0010438.cif",2
+68,P2_1/m,"Cs2NaAsO4.cif, Cs2NaVO4.cif, LaAsO3.cif",3
+69,I2_13,"Cs2Pb2O3.cif, K2Pb2O3.cif, K2Sn2O3.cif, Rb2Pb2O3.cif",4
+70,P31m,Cs3As5O9.cif,1
+71,P2_13,"Cs3BiO3.cif, Cs3SbO3.cif, CsCdBO3.cif, K3SbO3.cif, KMgBO3.cif, Rb3BiO3.cif, Rb3SbO3.cif, RbMgBO3.cif",8
+72,Pccm,CsBi(MoO4)2.cif,1
+73,Pmc2_1,CsNb2BiO7.cif,1
+74,Cc,"Fe2O5Sr2-dataset2-0143474.cif, In2O5Sr2-dataset2-0110270.cif, Mn2Ni1O4-dataset2-0011752.cif, Na4SnO3.cif, Rb4SnO3.cif, RbLiMoO4.cif",6
+75,Amm2,"Fe4O11Sr4-dataset2-0161406.cif, Nb6O16Sr1-dataset2-0195961.cif",2
+76,P6_3cm,In1O3Y1-dataset2-0109668.cif,1
+77,Ia-3,"In2O3-dataset2-0009889.cif, La2O3-dataset2-0111542.cif, O3Y2-dataset2-0290296.cif",3
+78,P4_2/mnm,"K2Na4Be2O5.cif, Li3AuO3.cif, Li3CuO3.cif, Mg(SbO3)2.cif, MgTa2O6.cif, Mn1O2-dataset2-0011671.cif, Na3AuO2.cif, Na3AuO3.cif, Na3CuO2.cif, O2Ti1-dataset2-0010720.cif, RbLiZn2O3.cif, SnO2.cif, Zn(SbO3)2.cif",13
+79,C222_1,"K2Zn(GeO3)2.cif, K2Zn(SiO3)2.cif, Mn1O3Sr1-dataset2-0126839.cif",3
+80,I-43m,"K3BiO3.cif, Na3BiO3.cif, Na3SbO3.cif, Zn4B6O13.cif",4
+81,P-62m,K3Ta3(BO6)2.cif,1
+82,Pnnm,"K3Y(BO3)2.cif, KNa2AuO2.cif, Li4Ca(BO3)2.cif, Mg3(BO3)2.cif, RbNa2AuO2.cif",5
+83,R3m,KBaY(BO3)2.cif,1
+84,I4mm,KNa2CuO2.cif,1
+85,P4_2/m,La2Pd2O5.cif,1
+86,P312,LaTiSbO6.cif,1
+87,I-42m,Li2CaGeO4.cif,1
+88,P4_2/nmc,Li6ZnO4.cif,1
+89,P4_12_12,LiAlO2.cif,1
+90,I4_122,LiAuO2.cif,1
+91,P-6,LiCdBO3.cif,1
+92,Pnna,LiSbO3.cif,1
+93,R3c,LiTaO3.cif,1
+94,P4_2/mbc,"Mg(SbO2)2.cif, Pb3O4.cif",2
+95,P4_122,Mg2TiO4.cif,1
+96,P2,Mn2O4Ti1-dataset2-0145761.cif,1
+97,Pm,Mn3O10Sr4-dataset2-0146652.cif,1
+98,P-3,"Na14Cd2O9.cif, Na4Ti5O12.cif, Tl6Si2O7.cif",3
+99,P6_3/mcm,"Na2ReO3.cif, Sr(AsO3)2.cif",2
+100,P2_12_12,Na3BeAl(SiO4)2.cif,1
+101,Pbca,O2Ti1-dataset2-0011764.cif,1
+102,P4/nnc,RbLa(MoO4)2.cif,1
+103,P31c,RbLiCrO4.cif,1
+104,Pccn,Sb2O3.cif,1
+105,I-42d,SiO2.cif,1
+106,P4_2/ncm,Sr2SnO4.cif,1
+107,P-62c,SrBe3O4.cif,1
+108,P-31c,TlSbO3.cif,1

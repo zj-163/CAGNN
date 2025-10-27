@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Sr2ZnSi2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.94947868
+_cell_length_b   7.94947868
+_cell_length_c   5.15840720
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2ZnSi2O7
+_chemical_formula_sum   'Sr4 Zn2 Si4 O14'
+_cell_volume   325.98147448
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr1  1  0.33483830  0.83483830  0.50744614  1
+  Sr  Sr1  1  0.16516170  0.33483830  0.49255386  1
+  Sr  Sr1  1  0.66516170  0.16516170  0.50744614  1
+  Sr  Sr1  1  0.83483830  0.66516170  0.49255386  1
+  Zn  Zn1  1  0.50000000  0.50000000  0.00000000  1
+  Zn  Zn1  1  0.00000000  0.00000000  0.00000000  1
+  Si  Si1  1  0.13993428  0.63993428  0.94971226  1
+  Si  Si1  1  0.36006572  0.13993428  0.05028774  1
+  Si  Si1  1  0.86006572  0.36006572  0.94971226  1
+  Si  Si1  1  0.63993428  0.86006572  0.05028774  1
+  O  O1  1  0.50000000  0.00000000  0.16207717  1
+  O  O1  1  0.00000000  0.50000000  0.83792283  1
+  O  O2  1  0.13928414  0.63928414  0.26224149  1
+  O  O2  1  0.36071586  0.13928414  0.73775851  1
+  O  O2  1  0.86071586  0.36071586  0.26224149  1
+  O  O2  1  0.63928414  0.86071586  0.73775851  1
+  O  O3  1  0.31323760  0.58047002  0.80280437  1
+  O  O3  1  0.18676240  0.08047002  0.19719563  1
+  O  O3  1  0.68676240  0.41952998  0.80280437  1
+  O  O3  1  0.81323760  0.91952998  0.19719563  1
+  O  O3  1  0.58047002  0.68676240  0.19719563  1
+  O  O3  1  0.91952998  0.18676240  0.80280437  1
+  O  O3  1  0.41952998  0.31323760  0.19719563  1
+  O  O3  1  0.08047002  0.81323760  0.80280437  1
