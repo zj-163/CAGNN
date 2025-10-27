@@ -31,7 +31,6 @@ This is the code repository for the "_Prediction of Oxygen Vacancy Formation Ene
 |____◰ test: the data corresponding to Sections 3.4 of the manuscript.
 |
 |
-|
 |____charge0_with_dataset2.csv:  It includes the formation energies of each oxygen site of all crystals in the two datasets.
 |
 |____Elements_props_all_v1.csv:  The properties that encompass all the elements. The data is sourced from the pymatgen.
