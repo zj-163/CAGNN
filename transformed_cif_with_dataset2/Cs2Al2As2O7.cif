@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Cs2Al2As2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.49780094
+_cell_length_b   9.83969739
+_cell_length_c   9.02614704
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2Al2As2O7
+_chemical_formula_sum   'Cs4 Al4 As4 O14'
+_cell_volume   488.28474656
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs1  1  0.50000000  0.50000000  0.83816640  1
+  Cs  Cs2  1  0.00000000  0.50000000  0.19545570  1
+  Al  Al1  1  0.00000000  0.16531772  0.93868776  1
+  Al  Al1  1  0.00000000  0.83468228  0.93868776  1
+  As  As1  1  0.50000000  0.79885612  0.11423238  1
+  As  As1  1  0.50000000  0.20114388  0.11423238  1
+  O  O1  1  0.74429420  0.73925428  0.00031322  1
+  O  O2  1  0.50000000  0.50000000  0.50494306  1
+  O  O3  1  0.50000000  0.66168818  0.24243534  1
+  O  O1  1  0.25570580  0.73925428  0.00031322  1
+  O  O1  1  0.25570580  0.26074572  0.00031322  1
+  O  O1  1  0.74429420  0.26074572  0.00031322  1
+  O  O3  1  0.50000000  0.33831182  0.24243534  1
+  Cs  Cs1  1  0.00000000  0.00000000  0.33816640  1
+  Cs  Cs2  1  0.50000000  0.00000000  0.69545570  1
+  Al  Al1  1  0.50000000  0.66531772  0.43868776  1
+  Al  Al1  1  0.50000000  0.33468228  0.43868776  1
+  As  As1  1  0.00000000  0.29885612  0.61423238  1
+  As  As1  1  0.00000000  0.70114388  0.61423238  1
+  O  O1  1  0.24429420  0.23925428  0.50031322  1
+  O  O2  1  0.00000000  0.00000000  0.00494306  1
+  O  O3  1  0.00000000  0.16168818  0.74243534  1
+  O  O1  1  0.75570580  0.23925428  0.50031322  1
+  O  O1  1  0.75570580  0.76074572  0.50031322  1
+  O  O1  1  0.24429420  0.76074572  0.50031322  1
+  O  O3  1  0.00000000  0.83831182  0.74243534  1

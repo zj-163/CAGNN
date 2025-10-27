@@ -1,0 +1,4 @@
+split_type,fold,train_loss,test_loss
+split_by_elements_numbers,1,0.48145709119641217,1.3781289712146476
+split_by_elements_numbers,2,0.33522782025428466,0.5458209649665512
+split_by_elements_numbers,3,0.31648184820564074,0.20423500447333615
